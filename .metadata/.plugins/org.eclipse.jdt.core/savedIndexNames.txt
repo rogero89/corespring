@@ -1,0 +1,11 @@
+INDEX VERSION 1.127+/home/rogero/Escritorio/corespring/.metadata/.plugins/org.eclipse.jdt.core
+61189702.index
+3960259795.index
+67216540.index
+844887596.index
+3416849480.index
+2590547840.index
+3952926568.index
+1730180254.index
+1122902083.index
+2313984440.index

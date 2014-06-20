@@ -6,7 +6,7 @@
 
     <bean id="saludoService" class="saludo.SaludoServiceImpl">
         <!-- onstructor-arg value="Hola Buenas Tardes"></constructor-arg-->
-        <property name="saludo" value="Buenas Noches"/>
+        <property name="saludo" value="Buenas noches chiquillos y chiquillas"/>
     </bean>
     
     

@@ -1,0 +1,26 @@
+2014-06-20 12:16:27,029 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-06-20 12:16:27,032 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-06-20 12:16:27,032 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-06-20 12:16:56,436 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:SaludoProyecto:1.0 @ /home/rogero/Escritorio/corespring/SaludoProyecto/pom.xml.
+2014-06-20 12:16:56,932 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SaludoProyecto/src/main/java
+2014-06-20 12:16:56,932 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaludoProyecto/src/main/resources
+2014-06-20 12:16:56,932 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SaludoProyecto/src/test/java
+2014-06-20 12:16:57,544 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:SaludoProyecto:1.0 @ /home/rogero/Escritorio/corespring/SaludoProyecto/pom.xml.
+2014-06-20 12:16:59,750 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-20 12:16:59,754 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-06-20 12:16:59,868 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-20 12:16:59,869 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rogero/Escritorio/corespring/SaludoProyecto/src/test/resources
+2014-06-20 12:17:06,664 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-20 12:17:06,665 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-06-20 12:17:06,666 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-20 12:17:06,666 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rogero/Escritorio/corespring/SaludoProyecto/src/test/resources
+2014-06-20 12:21:57,028 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:SaludoProyecto:1.0 @ /home/rogero/Escritorio/corespring/SaludoProyecto/pom.xml.
+2014-06-20 12:21:57,123 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-06-20 12:21:58,171 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.0.1RELEASE/spring-context-support-4.0.1RELEASE.pom
+2014-06-20 12:21:58,178 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-context-support:jar:4.0.1RELEASE is missing, no dependency information available
+2014-06-20 12:21:58,179 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-06-20 12:21:58,639 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.0.1RELEASE/spring-context-support-4.0.1RELEASE.jar
+2014-06-20 12:21:58,679 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-20 12:21:58,680 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-06-20 12:21:58,682 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-20 12:21:58,682 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rogero/Escritorio/corespring/SaludoProyecto/src/test/resources
